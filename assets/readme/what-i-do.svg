@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">我平时在干嘛</title>
+  <desc id="d">三张贴纸卡片：搬数据、看数据、做小玩意。</desc>
+  <rect x="3" y="3" width="1194" height="294" rx="28" fill="#FFF4DC" stroke="#1F1B16" stroke-width="5"/>
+  <g transform="translate(60 50) rotate(-1.5)">
+    <rect x="8" y="8" width="340" height="190" rx="22" fill="#1F1B16"/>
+    <rect width="340" height="190" rx="22" fill="#FFD966" stroke="#1F1B16" stroke-width="5"/>
+    <text x="28" y="50" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="24" font-weight="800" fill="#1F1B16" fill-opacity="0.55">01</text>
+    <text x="28" y="100" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="42" font-weight="900" fill="#1F1B16">搬数据</text>
+    <text x="28" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#1F1B16">把四面八方的数据</text>
+    <text x="28" y="174" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#1F1B16">理顺，放到该去的地方</text>
+  </g>
+  <g transform="translate(430 56) rotate(1)">
+    <rect x="8" y="8" width="340" height="190" rx="22" fill="#1F1B16"/>
+    <rect width="340" height="190" rx="22" fill="#FFB3A7" stroke="#1F1B16" stroke-width="5"/>
+    <text x="28" y="50" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="24" font-weight="800" fill="#1F1B16" fill-opacity="0.55">02</text>
+    <text x="28" y="100" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="42" font-weight="900" fill="#1F1B16">看数据</text>
+    <text x="28" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#1F1B16">从一堆数字里找出</text>
+    <text x="28" y="174" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#1F1B16">“哦，原来是这样”</text>
+  </g>
+  <g transform="translate(800 50) rotate(-1)">
+    <rect x="8" y="8" width="340" height="190" rx="22" fill="#1F1B16"/>
+    <rect width="340" height="190" rx="22" fill="#A8E6CF" stroke="#1F1B16" stroke-width="5"/>
+    <text x="28" y="50" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="24" font-weight="800" fill="#1F1B16" fill-opacity="0.55">03</text>
+    <text x="28" y="100" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="42" font-weight="900" fill="#1F1B16">做小玩意</text>
+    <text x="28" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#1F1B16">用 AI 做点自己</text>
+    <text x="28" y="174" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="22" font-weight="600" fill="#1F1B16">真的会用的小工具</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="t d">
+  <title id="t">嗨，我是 kfv53</title>
+  <desc id="d">白天跟数据打交道，晚上折腾 AI 小玩意儿。一个拿着手臂打招呼的数据库小人。</desc>
+  <rect x="3" y="3" width="1194" height="360" rx="28" fill="#FFF4DC" stroke="#1F1B16" stroke-width="5"/>
+  <text x="64" y="128" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="72" font-weight="900" fill="#1F1B16">嗨，我是 kfv53</text>
+  <path d="M66 150 q22 -14 44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0" fill="none" stroke="#FF8A4C" stroke-width="7" stroke-linecap="round"/>
+  <text x="64" y="212" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="36" font-weight="700" fill="#1F1B16">白天跟数据打交道，</text>
+  <text x="64" y="262" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="36" font-weight="700" fill="#1F1B16">晚上折腾 AI 小玩意儿。</text>
+  <g transform="translate(64 292) rotate(-3)">
+    <rect x="6" y="6" width="112" height="52" rx="16" fill="#1F1B16"/>
+    <rect width="112" height="52" rx="16" fill="#FFD966" stroke="#1F1B16" stroke-width="4"/>
+    <text x="56.0" y="35.1" text-anchor="middle" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="26" font-weight="800" fill="#1F1B16">Java</text>
+  </g>
+  <g transform="translate(196 292) rotate(2)">
+    <rect x="6" y="6" width="148" height="52" rx="16" fill="#1F1B16"/>
+    <rect width="148" height="52" rx="16" fill="#A8E6CF" stroke="#1F1B16" stroke-width="4"/>
+    <text x="74.0" y="35.1" text-anchor="middle" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="26" font-weight="800" fill="#1F1B16">Python</text>
+  </g>
+  <g transform="translate(366 292) rotate(-2)">
+    <rect x="6" y="6" width="138" height="52" rx="16" fill="#1F1B16"/>
+    <rect width="138" height="52" rx="16" fill="#FFB3A7" stroke="#1F1B16" stroke-width="4"/>
+    <text x="69.0" y="35.1" text-anchor="middle" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="26" font-weight="800" fill="#1F1B16">大数据</text>
+  </g>
+  <g transform="translate(700 52)">
+    <path d="M20 0 H190 Q210 0 210 20 V84 Q210 104 190 104 H150 L176 140 L112 104 H20 Q0 104 0 84 V20 Q0 0 20 0 Z" fill="#FFFFFF" stroke="#1F1B16" stroke-width="5" stroke-linejoin="round"/>
+    <text x="105" y="44" text-anchor="middle" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="26" font-weight="800" fill="#1F1B16">今天的数据，</text>
+    <text x="105" y="80" text-anchor="middle" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="26" font-weight="800" fill="#1F1B16">你搬了吗？</text>
+  </g>
+  <g id="mascot">
+    <ellipse cx="990" cy="334" rx="92" ry="14" fill="#1F1B16" fill-opacity="0.15"/>
+    <path d="M900 190 V300 A90 30 0 0 0 1080 300 V190 Z" fill="#8FD3FE" stroke="#1F1B16" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M900 245 A90 30 0 0 0 1080 245" fill="none" stroke="#1F1B16" stroke-width="5"/>
+    <ellipse cx="990" cy="190" rx="90" ry="30" fill="#BFE6FF" stroke="#1F1B16" stroke-width="5"/>
+    <circle cx="960" cy="272" r="9" fill="#1F1B16"/>
+    <circle cx="1020" cy="272" r="9" fill="#1F1B16"/>
+    <path d="M972 290 Q990 308 1008 290" fill="none" stroke="#1F1B16" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="934" cy="288" r="9" fill="#FFB3A7"/>
+    <circle cx="1046" cy="288" r="9" fill="#FFB3A7"/>
+    <path d="M900 235 q-26 -4 -34 -34" fill="none" stroke="#1F1B16" stroke-width="5" stroke-linecap="round"/>
+    <path d="M1080 235 q26 -4 34 -34" fill="none" stroke="#1F1B16" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
